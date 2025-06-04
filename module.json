@@ -13,7 +13,7 @@
     ],
     "compatibility": {
         "minimum": "12.329",
-        "verified": "12.331",
+        "verified": "13.344",
         "maximum": "13"
     },
     "version": "1.34.0",
